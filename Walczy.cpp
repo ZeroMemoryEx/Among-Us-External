@@ -179,7 +179,7 @@ void title()
         Sleep(100);
         SetConsoleTitleA("CREATED BY WALCZY");
         Sleep(3000);
-        SetConsoleTitleA("Among-Us Cheat");
+        SetConsoleTitleA("Among Us Cheat");
         Sleep(4000);
     }
 }
