@@ -1,5 +1,3 @@
-* Note == the code is extremely untidy
-* ~
 # Among-Us-External
 * external hack for Among Us written in C++
 # Futures:
